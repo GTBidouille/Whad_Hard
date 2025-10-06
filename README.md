@@ -55,7 +55,7 @@ pour chaque SPI, le DMA sera activé aussi bien en TX que RX. On peut choisir le
 
 sur le rf52840
 
-p1.04 : Mosi
-p1.02 : CLK
-p1.06 : Miso
-p1.09 : /CS
+- p1.04 : Mosi
+- p1.02 : CLK
+- p1.06 : Miso
+- p1.09 : /CS
