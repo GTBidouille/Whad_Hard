@@ -33,21 +33,21 @@ pour la partie SPI ( tous en full duplex master)
 | SPI5 | PF8 | PF9 | PF7 | 
 
 pour la partie CS : 
-CS1:PF13
-CS2:PF14
-CS3:PF15
-CS4:PG0
-CS5:PG1
-CS6:PE7
-CS7:PE8
-CS8:PE9
+- CS1:PF13
+- CS2:PF14
+- CS3:PF15
+- CS4:PG0
+- CS5:PG1
+- CS6:PE7
+- CS7:PE8
+- CS8:PE9
 
 pour la partie présence
-P1:PF0
-P2:PF1
-P3:PF2
-P4:PF3
-P5:PF4
+- P1:PF0
+- P2:PF1
+- P3:PF2
+- P4:PF3
+- P5:PF4
 
 
 
